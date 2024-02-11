@@ -1,6 +1,6 @@
 # Chatbot Project
 
-[Chatbot Project](https://chatbot-project-xapk66pkqxgmdmubpenfr7.streamlit.app/ChatWithSavannah)
+[Chatbot Project](https://chatbot-project-xapk66pkqxgmdmubpenfr7.streamlit.app/)
 
 ## Description
 
